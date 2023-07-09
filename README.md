@@ -16,3 +16,5 @@ Or if you are using windows, you can run:
 Once the application loads, replace the path under the Pickle section to your downloaded pkl file. Similarly replace the path under the Latent section with the path to 0.pt file and hit load latent.
 
 Your custom image should now load up on the right. Drag it around and have fun!
+
+A more detailed and comprehensive guide is available at: -tobeupdated-
